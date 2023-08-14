@@ -1,0 +1,14 @@
+C:\Users\james\Desktop\pdf-appender\obj\Debug\net7.0\pdf-appender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Desktop\pdf-appender\obj\Debug\net7.0\pdf-appender.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\pdf-appender\obj\Debug\net7.0\pdf-appender.AssemblyInfo.cs
+C:\Users\james\Desktop\pdf-appender\obj\Debug\net7.0\pdf-appender.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\pdf-appender\bin\Debug\net7.0\pdf-appender.exe
+c:\Users\james\Desktop\pdf-appender\bin\Debug\net7.0\pdf-appender.deps.json
+c:\Users\james\Desktop\pdf-appender\bin\Debug\net7.0\pdf-appender.runtimeconfig.json
+C:\Users\james\Desktop\pdf-appender\bin\Debug\net7.0\pdf-appender.dll
+C:\Users\james\Desktop\pdf-appender\bin\Debug\net7.0\pdf-appender.pdb
+C:\Users\james\Desktop\pdf-appender\obj\Debug\net7.0\pdf-appender.dll
+C:\Users\james\Desktop\pdf-appender\obj\Debug\net7.0\refint\pdf-appender.dll
+C:\Users\james\Desktop\pdf-appender\obj\Debug\net7.0\pdf-appender.pdb
+c:\Users\james\Desktop\pdf-appender\obj\Debug\net7.0\pdf-appender.genruntimeconfig.cache
+c:\Users\james\Desktop\pdf-appender\obj\Debug\net7.0\ref\pdf-appender.dll
